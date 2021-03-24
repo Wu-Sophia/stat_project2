@@ -1,1 +1,1 @@
-# stat_project2
+We have been given a subset of 20 years of data that details different statistics and metrics for each of the attempted shots that Kobe made in his career. We used this data to analyze and make multiple prediction models based on the likelihood of a shoot’s success or failure.
